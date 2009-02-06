@@ -1,0 +1,13 @@
+Build.PL
+Changes
+lib/Devel/OnDestruct.pm
+lib/Devel/OnDestruct.xs
+MANIFEST
+README
+t/00-load.t
+t/10-basics.t
+t/pod-coverage.t
+t/pod.t
+Makefile.PL
+META.yml
+SIGNATURE    Added here by Module::Build
